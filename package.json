@@ -1,0 +1,25 @@
+{
+  "name": "scope-fns",
+  "version": "1.0.0",
+  "description": "Kotlin-inspired scope functions using safe module augmentation",
+  "keywords": [
+    "scope",
+    "util"
+  ],
+  "homepage": "https://github.com/mfulton26/scope-fns#readme",
+  "bugs": {
+    "url": "https://github.com/mfulton26/scope-fns/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfulton26/scope-fns.git"
+  },
+  "license": "MIT",
+  "author": "Mark Fulton",
+  "type": "module",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "node --test"
+  }
+}
