@@ -1,18 +1,18 @@
 {
-  "name": "scope-fns",
+  "name": "scope-methods",
   "version": "1.0.0",
-  "description": "Kotlin-inspired scope functions using safe module augmentation",
+  "description": "Kotlin-inspired scope methods using safe module augmentation",
   "keywords": [
     "scope",
     "util"
   ],
-  "homepage": "https://github.com/mfulton26/scope-fns#readme",
+  "homepage": "https://github.com/mfulton26/scope-methods#readme",
   "bugs": {
-    "url": "https://github.com/mfulton26/scope-fns/issues"
+    "url": "https://github.com/mfulton26/scope-methods/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mfulton26/scope-fns.git"
+    "url": "git+https://github.com/mfulton26/scope-methods.git"
   },
   "license": "MIT",
   "author": "Mark Fulton",
